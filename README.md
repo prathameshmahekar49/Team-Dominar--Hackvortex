@@ -124,7 +124,7 @@ With India becoming the **third-largest packaged food market**, tools like Nutri
 
 ```bash
 git clone https://github.com/prathameshmahekar49/Team-Dominar-Hackvortex.git
-cd Team-Dominar-Hackvortex
+cd Team-Dominar--Hackvortex
 npm install
 npx expo start
 
