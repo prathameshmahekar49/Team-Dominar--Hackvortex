@@ -121,3 +121,20 @@ git clone https://github.com/prathameshmahekar49/Team-Dominar-Hackvortex.git
 cd Team-Dominar-Hackvortex
 npm install
 npx expo start
+
+
+📦 Dependencies
+expo-barcode-scanner
+
+axios
+
+react-navigation
+
+@react-native-async-storage/async-storage
+
+📸 Screenshots (Add yours here)
+
+| ![homescreen](assets/images/homescreen.jpg) |
+| ![scan](assets/images/scan.jpg) | ![result](assets/images/scanresult.jpg) | ![flags](assets/images/additives.jpg) |
+| ![scan](assets/images/scanhistory.jpg) || ![preferences](assets/images/preferences.jpg) 
+
