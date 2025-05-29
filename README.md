@@ -69,6 +69,12 @@ NutriScan is a React Native app built with Expo that allows users to scan barcod
    - Provides basic analytics: most scanned type, avg. sugar/fat/salt intake from recent scans.
 
 ---
+📸 Screenshots 
+
+ ![homescreen](assets/images/homescreen.jpg) 
+![scan](assets/images/scan.jpg) | ![result](assets/images/scanresult.jpg) | ![flags](assets/images/additives.jpg) |
+ ![scan](assets/images/scanhistory.jpg)  ![preferences](assets/images/preferences.jpg) 
+
 
 ## 🇮🇳 Why This App is Needed in the Indian Market
 
@@ -132,9 +138,5 @@ react-navigation
 
 @react-native-async-storage/async-storage
 
-📸 Screenshots (Add yours here)
 
-| ![homescreen](assets/images/homescreen.jpg) |
-| ![scan](assets/images/scan.jpg) | ![result](assets/images/scanresult.jpg) | ![flags](assets/images/additives.jpg) |
-| ![scan](assets/images/scanhistory.jpg) || ![preferences](assets/images/preferences.jpg) 
 
